@@ -1,4 +1,4 @@
-package com.example.android_internal_storage;
+package dev.aldy.kafekat;
 
 import org.junit.Test;
 

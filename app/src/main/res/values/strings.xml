@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">335_roomDB_sharedPref</string>
+    <string name="app_name">KafeKat</string>
+    <string name="title_activity_maps">MapsActivity</string>
 </resources>
